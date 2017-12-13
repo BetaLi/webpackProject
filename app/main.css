@@ -1,0 +1,10 @@
+body{
+    margin: 0 auto;
+    background: red;
+}
+div{
+    background-color: black;
+}
+a{
+    display: flex;
+}
